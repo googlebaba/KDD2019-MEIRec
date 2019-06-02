@@ -9,6 +9,7 @@ Data in the train_data.txt and test_data.txt is formated as 'features label', an
 
 # Requirements
 tensorflow==1.1.0
+
 numpy==1.12.1
 
 # Running the model
