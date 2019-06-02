@@ -5,7 +5,7 @@ KDD2019-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommenda
 Shaohua Fan, Email:fanshaohua92@163.com
 
 # Note
-Data in the train_data.txt and test_data.txt is formated as 'features label', and features is constituted by term id. Note that the released data is only a small subset of the data used in the paper.
+Data in the train_data.txt and test_data.txt is formated as 'features label', and features are constituted by term ids. Note that the released data is only a small subset of the data used in the paper.
 
 # Requirements
 tensorflow==1.1.0
