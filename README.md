@@ -1,7 +1,7 @@
 # KDD2019-MEIRec
 KDD2019-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
 
-# contact
+# Contact
 Shaohua Fan, Email:fanshaohua92@163.com
 
 # Note
